@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Convert</string>
+    <string name="currency_convert"><u>Currency Convert</u></string>
+    <string name="_8377">&#8377;</string>
+</resources>
